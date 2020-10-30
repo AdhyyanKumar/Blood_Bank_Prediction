@@ -15,8 +15,8 @@
 10) Warings
 ## Usage:
 1) Clone the repositry
-2) Open terminal (for MacOs) / command prompt
-3) Write:
+2) Open terminal (for MacOs) / command prompt (for Windows)
+3) Write this code in it:
 ``` $ streamlit run Blood_Prediction.py```
 4) Follow the steps in the gif
 5) To close the terminal do:
