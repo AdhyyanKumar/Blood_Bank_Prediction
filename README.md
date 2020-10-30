@@ -1,6 +1,6 @@
 # Blood_Bank_Prediction
 ## Overview:
-
+![Blood Bank Prediction](https://user-images.githubusercontent.com/57061577/97670140-9e26ba00-1aab-11eb-8fb4-f1a646193120.gif)
 ## Requirements:
  This app uses different models:
 1)  Pandas
