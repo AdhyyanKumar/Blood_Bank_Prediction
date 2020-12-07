@@ -12,7 +12,7 @@
 7)  Datetime
 8)  Time
 9)  Streamlit
-10) Warings
+10) Warnings
 ## Usage:
 1) Clone the repositry
 2) Open terminal (for MacOs) / command prompt (for Windows)
